@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T04:40:39.892Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="N7kZeVyfRen22SgU-x58" version="14.7.3" type="github"><diagram id="TosnfWEdNGTdKSCRnWV6" name="Page-1">ddHBDoMgDADQr+GOsEXvzm0XTx52JtIJCVqDLLp9/TTgHHG7kPJaKCmE5+10saJXJUowhFE5EX4ijKUZm9cFnh4OPPXQWC09JRtU+gUBadCHljBEhQ7RON3HWGPXQe0iE9biGJfd0cRde9HADqpamL3etHTKa3akm19BN2rtnNCQacVaHGBQQuL4RbwgPLeIzkftlINZZrfOxZ87/8l+Hmahcz8OzMF297yJPogXbw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-02T05:55:01.742Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="gC10M5MHRcD8WJXIulrj" version="14.7.3" type="github">
+  <diagram id="TosnfWEdNGTdKSCRnWV6" name="Page-1">
+    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Qrc8LXZVPuAlsKq4wB4K-1" value="Mobile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrc8LXZVPuAlsKq4wB4K-2" value="Web" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrc8LXZVPuAlsKq4wB4K-3" value="Api Gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="50" width="90" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrc8LXZVPuAlsKq4wB4K-4" value="Menu Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrc8LXZVPuAlsKq4wB4K-5" value="Payment Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrc8LXZVPuAlsKq4wB4K-6" value="Cart Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrc8LXZVPuAlsKq4wB4K-7" value="Coffee Shop Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrc8LXZVPuAlsKq4wB4K-8" value="Checkout Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrc8LXZVPuAlsKq4wB4K-9" value="Map&amp;nbsp;Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrc8LXZVPuAlsKq4wB4K-10" value="Order Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
