@@ -1,38 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2021-06-02T05:55:01.742Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="gC10M5MHRcD8WJXIulrj" version="14.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-02T16:02:53.690Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="SvmF8RKgoPNjh3RYvxh9" version="14.7.3" type="github">
   <diagram id="TosnfWEdNGTdKSCRnWV6" name="Page-1">
-    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="782" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Qrc8LXZVPuAlsKq4wB4K-1" value="Mobile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="70" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="75" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qrc8LXZVPuAlsKq4wB4K-2" value="Web" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="190" width="120" height="60" as="geometry" />
+          <mxGeometry x="60" y="120" width="50" height="22.5" as="geometry" />
         </mxCell>
         <mxCell id="Qrc8LXZVPuAlsKq4wB4K-3" value="Api Gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="50" width="90" height="250" as="geometry" />
+          <mxGeometry x="150" y="30" width="90" height="350" as="geometry" />
         </mxCell>
         <mxCell id="Qrc8LXZVPuAlsKq4wB4K-4" value="Menu Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="60" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Qrc8LXZVPuAlsKq4wB4K-5" value="Payment Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="Qrc8LXZVPuAlsKq4wB4K-5" value="Payment Service&lt;br&gt;- Receive Payment" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="145" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qrc8LXZVPuAlsKq4wB4K-6" value="Cart Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="390" y="60" width="65" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Qrc8LXZVPuAlsKq4wB4K-7" value="Coffee Shop Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qrc8LXZVPuAlsKq4wB4K-8" value="Checkout Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="60" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Qrc8LXZVPuAlsKq4wB4K-9" value="Map&amp;nbsp;Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="Qrc8LXZVPuAlsKq4wB4K-9" value="Map&amp;nbsp;&lt;br&gt;Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="60" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Qrc8LXZVPuAlsKq4wB4K-10" value="Order Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="280" width="120" height="60" as="geometry" />
+        <mxCell id="Qrc8LXZVPuAlsKq4wB4K-10" value="Order Service&lt;br&gt;- Place order&lt;br&gt;- Receive order with payment confirmation&lt;br&gt;- Mark order as ready for pickup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="145" width="120" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrc8LXZVPuAlsKq4wB4K-11" value="Notification Service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrc8LXZVPuAlsKq4wB4K-12" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="67.5" width="30" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrc8LXZVPuAlsKq4wB4K-13" value="Coffee shop &lt;br&gt;workers/owners" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="240" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qrc8LXZVPuAlsKq4wB4K-14" value="Web" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="250" width="50" height="22.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
