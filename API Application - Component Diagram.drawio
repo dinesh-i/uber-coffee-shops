@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T18:10:07.587Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="s9BGoRWYPvinZvEzCzow" version="14.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-03T18:10:26.595Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="qMHr4OmPBLLiJzEvHiyS" version="14.7.4" type="github">
   <diagram id="SkIhgehRgUOG8sE2-ucU" name="Page-1">
     <mxGraphModel dx="1022" dy="1537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -109,7 +109,7 @@
           <mxGeometry x="300" y="380" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="a931OXOb7cvNoLb_iAoM-3" value="API Application&lt;br&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;[Container]&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="a931OXOb7cvNoLb_iAoM-1" vertex="1">
-          <mxGeometry y="632" width="110" height="14" as="geometry" />
+          <mxGeometry y="632" width="110" height="2" as="geometry" />
         </mxCell>
         <mxCell id="a931OXOb7cvNoLb_iAoM-29" value="remove coffee shop subscriber" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="290" y="100" width="70" height="20" as="geometry" />
