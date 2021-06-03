@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T12:49:46.403Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="5i3TqgxYLQvG8jn5Df4C" version="14.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-03T12:50:58.287Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="kur9L07Id076hlQgDeeT" version="14.7.4" type="github">
   <diagram id="YjuRmg1Bx2BvvdOO_Ps6" name="Page-1">
     <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -36,7 +36,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JCqmUcHljzqI2rWM6ied-5" value="Uber Coffee Shop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JCqmUcHljzqI2rWM6ied-5" value="Uber Coffee Shop" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="100" y="440" width="580" height="120" as="geometry" />
         </mxCell>
         <mxCell id="JCqmUcHljzqI2rWM6ied-6" value="Payment Gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
