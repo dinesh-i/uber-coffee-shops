@@ -1,1 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T12:29:00.106Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" version="14.7.4" etag="WiUhp2fwQ22SLfwB8aml" type="github"><diagram id="YjuRmg1Bx2BvvdOO_Ps6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-03T12:49:46.403Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="5i3TqgxYLQvG8jn5Df4C" version="14.7.4" type="github">
+  <diagram id="YjuRmg1Bx2BvvdOO_Ps6" name="Page-1">
+    <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JCqmUcHljzqI2rWM6ied-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.144;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JCqmUcHljzqI2rWM6ied-1" target="JCqmUcHljzqI2rWM6ied-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="184" y="100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JCqmUcHljzqI2rWM6ied-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JCqmUcHljzqI2rWM6ied-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JCqmUcHljzqI2rWM6ied-1" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JCqmUcHljzqI2rWM6ied-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JCqmUcHljzqI2rWM6ied-2" target="JCqmUcHljzqI2rWM6ied-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JCqmUcHljzqI2rWM6ied-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.888;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="JCqmUcHljzqI2rWM6ied-2" target="JCqmUcHljzqI2rWM6ied-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JCqmUcHljzqI2rWM6ied-2" value="Coffee Shop Employee/Owner" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="70" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JCqmUcHljzqI2rWM6ied-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="JCqmUcHljzqI2rWM6ied-5" target="JCqmUcHljzqI2rWM6ied-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="360" />
+              <mxPoint x="410" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JCqmUcHljzqI2rWM6ied-5" value="Uber Coffee Shop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="440" width="580" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JCqmUcHljzqI2rWM6ied-6" value="Payment Gateway" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JCqmUcHljzqI2rWM6ied-10" value="Orders coffee, select coffee shop and track order status using" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="250" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JCqmUcHljzqI2rWM6ied-11" value="Makes payment using" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="60" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JCqmUcHljzqI2rWM6ied-13" value="Receives payment using" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="60" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JCqmUcHljzqI2rWM6ied-14" value="Receives,&lt;br&gt;confirms and updates status of the order using" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="270" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JCqmUcHljzqI2rWM6ied-16" value="For payments, redirects to" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="260" width="70" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
