@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T17:27:00.465Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="lSqpS3CP8f2eseDY5KW-" version="14.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-03T17:28:12.570Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="_xI1Hs3YZ4AsJ1TnM_9V" version="14.7.4" type="github">
   <diagram id="SkIhgehRgUOG8sE2-ucU" name="Page-1">
     <mxGraphModel dx="782" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -42,7 +42,7 @@
         <mxCell id="a931OXOb7cvNoLb_iAoM-12" value="&lt;font&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Recommendation Engine&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;[Component: Python, TensorFlow Recommenders(TFRS), Keras]&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;br&gt;Creates a recommendation model based on customer attributes and orders&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="a931OXOb7cvNoLb_iAoM-1">
           <mxGeometry x="840" y="250" width="160" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="a931OXOb7cvNoLb_iAoM-13" value="&lt;font&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Customer Service&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;[Component: Spring MVC,&lt;br&gt;&amp;nbsp;Customer Controller]&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;Gets customer details&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="a931OXOb7cvNoLb_iAoM-1">
+        <mxCell id="a931OXOb7cvNoLb_iAoM-13" value="&lt;font&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Customer Service&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;[Component: Spring MVC,&lt;br&gt;&amp;nbsp;Customer Controller]&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;Gets customer details, registration&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="a931OXOb7cvNoLb_iAoM-1">
           <mxGeometry x="840" y="70" width="150" height="120" as="geometry" />
         </mxCell>
         <mxCell id="a931OXOb7cvNoLb_iAoM-15" value="Uses" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="a931OXOb7cvNoLb_iAoM-1">
