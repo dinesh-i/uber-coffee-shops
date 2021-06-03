@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T17:57:14.919Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="ssRki-CEaghu7hXrmrfg" version="14.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-03T17:58:43.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="IVuXEzjU_VGhA1Pezs3x" version="14.7.4" type="github">
   <diagram id="SkIhgehRgUOG8sE2-ucU" name="Page-1">
-    <mxGraphModel dx="782" dy="1537" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1144" dy="1679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="a931OXOb7cvNoLb_iAoM-1" value="" style="swimlane;startSize=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="-202" width="1010" height="650" as="geometry" />
+          <mxGeometry x="100" y="-202" width="1080" height="650" as="geometry" />
         </mxCell>
         <mxCell id="a931OXOb7cvNoLb_iAoM-2" value="IAM" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="a931OXOb7cvNoLb_iAoM-1">
           <mxGeometry x="30" y="70" width="70" height="50" as="geometry" />
@@ -55,8 +55,8 @@
         <mxCell id="a931OXOb7cvNoLb_iAoM-11" value="&lt;font&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Payment Service&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;[Component: Spring MVC,&lt;br&gt;&amp;nbsp;Payment Controller]&lt;br&gt;&lt;/font&gt;&lt;font&gt;&lt;br&gt;&lt;br&gt;Computes payment &lt;br&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;(payment is done by redirection to payment gateway)&lt;/font&gt;&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="a931OXOb7cvNoLb_iAoM-1">
           <mxGeometry x="420" y="250" width="150" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="a931OXOb7cvNoLb_iAoM-12" value="&lt;font&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Recommendation Engine&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;[Component: Python, TensorFlow Recommenders(TFRS), Keras]&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;br&gt;Creates a recommendation model based on customer attributes and orders. This is an offline batch job. Uses order DB, Customer DB&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="a931OXOb7cvNoLb_iAoM-1">
-          <mxGeometry x="840" y="250" width="160" height="150" as="geometry" />
+        <mxCell id="a931OXOb7cvNoLb_iAoM-12" value="&lt;font&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Recommendation Engine&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;[Component: Python, TensorFlow Recommenders(TFRS), Keras]&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;&lt;br&gt;&lt;br&gt;Creates a recommendation model based on customer attributes and orders. This is an offline batch job. Uses order DB, Customer DB, COffeShop DB, Maps DB&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="a931OXOb7cvNoLb_iAoM-1">
+          <mxGeometry x="840" y="250" width="190" height="150" as="geometry" />
         </mxCell>
         <mxCell id="a931OXOb7cvNoLb_iAoM-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="a931OXOb7cvNoLb_iAoM-1" source="a931OXOb7cvNoLb_iAoM-13" target="a931OXOb7cvNoLb_iAoM-31">
           <mxGeometry relative="1" as="geometry" />
