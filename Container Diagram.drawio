@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T07:02:58.477Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="B2NkvYGmXckgH4K5BgpG" version="14.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-04T07:03:38.211Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="PgJREwFdxaYSptw7MkV4" version="14.7.4" type="github">
   <diagram id="fK6YoVm5THp6q6ON8aku" name="Page-1">
     <mxGraphModel dx="1022" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -122,7 +122,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Wu1C852Lp-hqCvcJk5wa-24" value="For payments, redirects to" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Wu1C852Lp-hqCvcJk5wa-24" value="For payments, uses payment gateway SDK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="465" width="70" height="40" as="geometry" />
         </mxCell>
       </root>
