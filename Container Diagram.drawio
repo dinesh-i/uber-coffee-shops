@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T07:30:58.783Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="YfOqLBxugsAS-Mvbo0ed" version="14.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-04T18:13:35.418Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="LDRXheK9fu6V9EyW2mo8" version="14.7.4" type="github">
   <diagram id="fK6YoVm5THp6q6ON8aku" name="Page-1">
-    <mxGraphModel dx="1022" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1022" dy="437" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -124,6 +124,15 @@
         </mxCell>
         <mxCell id="Wu1C852Lp-hqCvcJk5wa-24" value="For payments, uses payment gateway SDK" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="465" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zf4wUzbd8KRPtQ49-rYc-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="zf4wUzbd8KRPtQ49-rYc-1" target="Wu1C852Lp-hqCvcJk5wa-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zf4wUzbd8KRPtQ49-rYc-1" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="290" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="zf4wUzbd8KRPtQ49-rYc-3" value="Financial Reports,&lt;br&gt;add/remove coffee shops, add/remove menu items" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="480" width="110" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
