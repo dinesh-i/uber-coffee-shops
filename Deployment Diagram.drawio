@@ -1,4 +1,4 @@
-<mxfile modified="2021-06-13T14:02:27.545Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="OeFSMZe7wyktPWecRwZ6" version="14.7.5" type="github">
+<mxfile modified="2021-06-13T14:02:48.187Z" host="app.diagrams.net" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="GbOnDEw1n0OUpi1_zcvV" version="14.7.5" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1303" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
             <mxPoint x="280" y="219" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="crM16MoAtf8uoVZ7nCeL-5" value="Define the steps to login&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="crM16MoAtf8uoVZ7nCeL-5" value="Pending:&lt;br&gt;- Define the steps to login&lt;br&gt;- Load Balancing" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="930" y="70" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="crM16MoAtf8uoVZ7nCeL-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="crM16MoAtf8uoVZ7nCeL-6" target="crM16MoAtf8uoVZ7nCeL-18">
